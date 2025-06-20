@@ -1,4 +1,9 @@
-### Hi there 👋
+<h2>👋 Hi, I’m S. K. Ajay Kumar!</h2>
+
+🎯 Full Stack Developer | 🌐 Web Developer | 🤖 AI Enthusiast  
+🚀 Passionate about building real-world products with React.js, Node.js, MongoDB, and more.  
+🛠️ Currently exploring GoLang & Docker.  
+📚 Continuous learner focused on problem-solving and system design.
 
 <!--
 **Ajaykumar8j3heiwjv/Ajaykumar8j3heiwjv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
